@@ -1,0 +1,40 @@
+html { height: 100%; }
+body { background: #fff; font: 400 24px/1.5 "Open Sans", serif; color: #111; height: 100%; }
+
+h1 { font: 400 2.4em/1.2 "Open Sans", sans-serif; }
+h2 { font: 400 2em/1.5 "Open Sans", sans-serif; margin: 1em 0;}
+h3 { font: 400 1.2em/1.1 "Open Sans", sans-serif; margin: 1em 0 0.4em; }
+
+p {
+	margin-bottom:1.5em;
+	font-family:"Open Sans", sans-serif;
+	font-weight:300;
+}
+
+#banner {
+	background: url(../images/bg.jpg) no-repeat 50% 100%;
+	color: #000;
+	background-color:#fff;
+	height: 100%;
+	width: 100%;
+	min-height:740px;
+	border-bottom:1px solid #bbb;
+}
+
+#bannertext {
+	width: 28em;
+	position: relative;
+	top: 40px;
+	left: 50%;
+	margin-left: -15em;
+}
+
+.logo {
+	height:36px;
+	margin-bottom:10px;
+}
+
+#footer {
+	padding:50px 0;
+	font-size:12px;
+}
